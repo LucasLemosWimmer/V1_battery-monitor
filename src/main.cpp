@@ -5,6 +5,7 @@ void setup() {
 }
 
 void loop() {
-  Serial.println("Laptop funktioniert");
+  Serial.println("Desktop-Laptop-funktioniert");
   delay(1000);
+
 };
